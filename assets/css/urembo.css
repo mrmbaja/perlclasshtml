@@ -1,0 +1,13 @@
+ table{
+     width: 80%;
+     border-collapse: collapse;
+ }
+ th ,td{
+     border:2px solid chartreuse;
+     padding: 10px;
+ }
+ h2{
+     color: aquamarine;
+     text-align: center;
+     font-family: sans-serif;
+ }
